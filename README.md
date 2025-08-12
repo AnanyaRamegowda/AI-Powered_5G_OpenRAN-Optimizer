@@ -1,4 +1,4 @@
-# AI-Powered-5G-OpenRAN-Optimizer
+# AI-Powered_5G_OpenRAN-Optimizer
 Welcome to the AI-Powered 5G Open RAN Optimizer repository! 
 
 ## Overview
@@ -65,9 +65,6 @@ This project was developed by Salim EL GHALBOZURI -Azure AI Engineer- as part of
 
 ## Contributing
 This project is a work in progress, and we welcome contributions from developers and researchers. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is released under the Apache-2.0 License.
 
 ## Disclaimer
 This project is still a work in progress. We're actively working on improving the system and adding more features. Please keep in mind that the code is still under development, and we may make breaking changes in the future. We appreciate your understanding and patience.
