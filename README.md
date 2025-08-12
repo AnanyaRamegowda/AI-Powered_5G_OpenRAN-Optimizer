@@ -25,7 +25,7 @@ The project is structured as follows:
 
 ~ `notebooks`: This folder contains Jupyter notebooks that were used to develop, test, and analyze the machine learning models.
 
-~ `src`: This folder contains the source code for the AI-powered optimization system, including scripts for data preprocessing, training, and inference.
+~ `source`: This folder contains the source code for the AI-powered optimization system, including scripts for data preprocessing, training, and inference.
 
 ~ `tests`: This folder contains unit tests and integration tests for the AI-powered optimization system.
 
